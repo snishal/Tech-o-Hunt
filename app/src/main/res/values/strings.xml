@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tech-o-Hunt</string>
+    <string name="cq">-1</string>
+    <string name="td">-2</string>
+    <string name="time">Team_ID : </string>
+    <string name="startTime">0L</string>
+    <string name="penalty_count">0</string>
+</resources>
